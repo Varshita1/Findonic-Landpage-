@@ -1,0 +1,258 @@
+.logo{
+
+    font-size: 28px;
+    color:rgb(187, 143, 228);
+    margin-left: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 32px;
+   
+}
+.back-ground{
+
+    background-color: rgb(15, 15, 42) ;
+    display:flex;
+    
+    border-bottom:solid 2px black ;
+    height: 80px;
+}
+.logo2{
+
+    margin-left: 1360px;
+    margin-top: 28px;
+    font-size: bold;
+}
+.main{
+
+    background-color:rgb(15, 15, 42) ;
+    height: 2500px;
+    width: 100%
+}
+
+
+.merge{
+    color: white;
+    display: flex;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 630px;
+    margin-top: 22px;
+    cursor: pointer;
+}
+.log{
+
+    color: blue;
+    border: solid 2px blue;
+    background-color: rgb(15, 15, 42) ;
+    padding-left: 23px;
+    padding-right: 23px;
+    height: 42px;
+    border-radius: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.sign{
+    height: 42px;
+    border-radius: 8px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border:solid 1px blue;
+    padding-left: 23px;
+    padding-right: 23px;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+.heading{
+
+    color:white;
+    font-size: 68px;
+    margin-left: 100px;
+    margin-top: 190px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading2{
+
+    color:white;
+    font-size: 68px;
+    margin-left: 100px;
+    margin-top: -62px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.line{
+    color: white;
+    margin-left: 100px;
+    font-size: 22px;
+    margin-top:-32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sign2{
+    height: 42px;
+    border-radius: 8px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border:solid 1px blue;
+    padding-left: 27px;
+    padding-right: 27px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 100px;
+    font-size: 18px;
+    margin-top: 22px;
+}
+.box{
+
+    height:100px;
+    background-color:rgb(27, 27, 70) ;
+    margin-top: 102px;
+    height:200px;
+}
+.arrange{
+
+    color:white;
+    font-size: 35px;
+    display: flex;
+    gap: 500px;
+    margin-left: 60px;
+}
+.p1{
+    display: grid;
+    
+}
+.p2{
+
+    margin-top: -10px;
+}
+.about{
+    color:white;
+    font-size: 62px;
+    margin-left: 700px;
+}
+.photo{
+    height: 500px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.about1{
+    color: white;
+    margin-top: 60px;
+    margin-left:38px;
+    font-size: 16px;
+    line-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.merge2{
+    display: flex;
+
+}
+.faq{
+   color:white;
+   text-align: center;
+   margin-top: 50px;
+   font-size: 52px;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.segments{
+
+    color: white;
+    margin-left: 50px;
+    font-size: 16px;
+    font-family:sans-serif;
+    margin-top: 62px;
+
+}
+.last-tag{
+
+    height:340px;
+    background-color: rgb(27, 27, 70) ;
+    margin-top: 100px;
+   
+}
+.resources{
+    color:white;
+    display: grid;
+    line-height: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+.tag1{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.merge4{
+    display: flex;
+    gap:10px;
+}
+.resources2{
+    color:white;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    
+    font-size: 18px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.resources3{
+    color:white;
+
+    gap: -11px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+    font-size: 18px;
+    margin-left: 70px;
+    margin-top: 60px;
+}
+.tag4{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+
+}
+.email{
+
+    margin-left: 200px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 14px;
+    height: 30px;
+    padding-right: 130px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border:solid 1px  rgb(27, 27, 70) ;
+}
+.sign3{
+    height: 42px;
+   
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border:solid 1px blue;
+    padding-left: 23px;
+    padding-right: 23px;
+    margin-left: -14px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    cursor: pointer;
+}
+.follow{
+    margin-left: 210px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.merge5{
+
+    margin-left: 210px;
+    word-spacing: 8px;
+}
